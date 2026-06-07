@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="docs/images/yocto-rpi5-banner.png" alt="Yocto Project with Raspberry Pi 5" width="100%">
+</p>
+
 # meta-rpi5-custom
 
 A custom Yocto/OpenEmbedded layer for Raspberry Pi 5 focused on learning, experimenting, and mastering the Embedded Linux software stack from the ground up.
